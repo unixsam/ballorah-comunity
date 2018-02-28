@@ -1,0 +1,112 @@
+INFO - 2018-02-26 20:51:38 --> Config Class Initialized
+INFO - 2018-02-26 20:51:38 --> Hooks Class Initialized
+DEBUG - 2018-02-26 20:51:38 --> UTF-8 Support Enabled
+INFO - 2018-02-26 20:51:38 --> Utf8 Class Initialized
+INFO - 2018-02-26 20:51:38 --> URI Class Initialized
+INFO - 2018-02-26 20:51:38 --> Router Class Initialized
+INFO - 2018-02-26 20:51:38 --> Output Class Initialized
+INFO - 2018-02-26 20:51:39 --> Security Class Initialized
+DEBUG - 2018-02-26 20:51:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-26 20:51:39 --> Input Class Initialized
+INFO - 2018-02-26 20:51:39 --> Language Class Initialized
+INFO - 2018-02-26 20:51:39 --> Loader Class Initialized
+INFO - 2018-02-26 20:51:39 --> Helper loaded: date_helper
+INFO - 2018-02-26 20:51:39 --> Database Driver Class Initialized
+INFO - 2018-02-26 20:51:39 --> Email Class Initialized
+DEBUG - 2018-02-26 20:51:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-26 20:51:39 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-26 20:51:39 --> Controller Class Initialized
+INFO - 2018-02-26 20:51:39 --> Helper loaded: common_helper
+INFO - 2018-02-26 20:51:39 --> Helper loaded: url_helper
+INFO - 2018-02-26 20:51:39 --> Helper loaded: html_helper
+INFO - 2018-02-26 20:51:39 --> Helper loaded: form_helper
+INFO - 2018-02-26 20:51:39 --> Helper loaded: security_helper
+DEBUG - 2018-02-26 20:51:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-02-26 20:51:39 --> Form Validation Class Initialized
+INFO - 2018-02-26 20:51:39 --> Model "User_model" initialized
+INFO - 2018-02-26 20:51:39 --> File loaded: /Users/Sami/Dropbox (Personal)/Workspace/Ballorah-community/ballorah-comunity/Platform/Dashboards/application/views/login_view.php
+INFO - 2018-02-26 20:51:39 --> Final output sent to browser
+DEBUG - 2018-02-26 20:51:39 --> Total execution time: 0.5698
+INFO - 2018-02-26 20:51:44 --> Config Class Initialized
+INFO - 2018-02-26 20:51:44 --> Hooks Class Initialized
+DEBUG - 2018-02-26 20:51:44 --> UTF-8 Support Enabled
+INFO - 2018-02-26 20:51:44 --> Utf8 Class Initialized
+INFO - 2018-02-26 20:51:44 --> URI Class Initialized
+INFO - 2018-02-26 20:51:44 --> Router Class Initialized
+INFO - 2018-02-26 20:51:44 --> Output Class Initialized
+INFO - 2018-02-26 20:51:44 --> Config Class Initialized
+INFO - 2018-02-26 20:51:44 --> Security Class Initialized
+INFO - 2018-02-26 20:51:44 --> Hooks Class Initialized
+DEBUG - 2018-02-26 20:51:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2018-02-26 20:51:45 --> UTF-8 Support Enabled
+INFO - 2018-02-26 20:51:45 --> Input Class Initialized
+INFO - 2018-02-26 20:51:45 --> Utf8 Class Initialized
+INFO - 2018-02-26 20:51:45 --> Language Class Initialized
+INFO - 2018-02-26 20:51:45 --> URI Class Initialized
+INFO - 2018-02-26 20:51:45 --> Loader Class Initialized
+INFO - 2018-02-26 20:51:45 --> Helper loaded: date_helper
+INFO - 2018-02-26 20:51:45 --> Router Class Initialized
+INFO - 2018-02-26 20:51:45 --> Output Class Initialized
+INFO - 2018-02-26 20:51:45 --> Database Driver Class Initialized
+INFO - 2018-02-26 20:51:45 --> Security Class Initialized
+DEBUG - 2018-02-26 20:51:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-26 20:51:45 --> Input Class Initialized
+INFO - 2018-02-26 20:51:45 --> Language Class Initialized
+INFO - 2018-02-26 20:51:45 --> Email Class Initialized
+INFO - 2018-02-26 20:51:45 --> Loader Class Initialized
+DEBUG - 2018-02-26 20:51:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-26 20:51:45 --> Helper loaded: date_helper
+INFO - 2018-02-26 20:51:45 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-26 20:51:45 --> Controller Class Initialized
+INFO - 2018-02-26 20:51:45 --> Helper loaded: common_helper
+INFO - 2018-02-26 20:51:45 --> Database Driver Class Initialized
+INFO - 2018-02-26 20:51:45 --> Helper loaded: url_helper
+INFO - 2018-02-26 20:51:45 --> Helper loaded: html_helper
+INFO - 2018-02-26 20:51:45 --> Helper loaded: form_helper
+INFO - 2018-02-26 20:51:45 --> Email Class Initialized
+INFO - 2018-02-26 20:51:45 --> Helper loaded: security_helper
+DEBUG - 2018-02-26 20:51:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-02-26 20:51:45 --> Form Validation Class Initialized
+DEBUG - 2018-02-26 20:51:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-26 20:51:45 --> Model "User_model" initialized
+INFO - 2018-02-26 20:51:45 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2018-02-26 20:51:45 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-26 20:51:45 --> Controller Class Initialized
+INFO - 2018-02-26 20:51:45 --> Helper loaded: common_helper
+INFO - 2018-02-26 20:51:45 --> Helper loaded: url_helper
+INFO - 2018-02-26 20:51:45 --> Helper loaded: html_helper
+INFO - 2018-02-26 20:51:45 --> Helper loaded: form_helper
+INFO - 2018-02-26 20:51:45 --> Helper loaded: security_helper
+DEBUG - 2018-02-26 20:51:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-02-26 20:51:45 --> Form Validation Class Initialized
+INFO - 2018-02-26 20:51:45 --> Model "User_model" initialized
+INFO - 2018-02-26 20:51:45 --> Config Class Initialized
+INFO - 2018-02-26 20:51:45 --> Hooks Class Initialized
+DEBUG - 2018-02-26 20:51:45 --> UTF-8 Support Enabled
+INFO - 2018-02-26 20:51:45 --> Utf8 Class Initialized
+INFO - 2018-02-26 20:51:45 --> URI Class Initialized
+DEBUG - 2018-02-26 20:51:45 --> No URI present. Default controller set.
+INFO - 2018-02-26 20:51:45 --> Router Class Initialized
+INFO - 2018-02-26 20:51:45 --> Output Class Initialized
+INFO - 2018-02-26 20:51:45 --> Security Class Initialized
+DEBUG - 2018-02-26 20:51:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2018-02-26 20:51:45 --> Input Class Initialized
+INFO - 2018-02-26 20:51:45 --> Language Class Initialized
+INFO - 2018-02-26 20:51:45 --> Loader Class Initialized
+INFO - 2018-02-26 20:51:45 --> Helper loaded: date_helper
+INFO - 2018-02-26 20:51:45 --> Database Driver Class Initialized
+INFO - 2018-02-26 20:51:45 --> Email Class Initialized
+DEBUG - 2018-02-26 20:51:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2018-02-26 20:51:45 --> Session: Class initialized using 'files' driver.
+INFO - 2018-02-26 20:51:45 --> Controller Class Initialized
+INFO - 2018-02-26 20:51:45 --> Helper loaded: url_helper
+INFO - 2018-02-26 20:51:45 --> Helper loaded: html_helper
+INFO - 2018-02-26 20:51:45 --> Helper loaded: common_helper
+DEBUG - 2018-02-26 20:51:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2018-02-26 20:51:45 --> File loaded: /Users/Sami/Dropbox (Personal)/Workspace/Ballorah-community/ballorah-comunity/Platform/Dashboards/application/views/header_view.php
+INFO - 2018-02-26 20:51:45 --> File loaded: /Users/Sami/Dropbox (Personal)/Workspace/Ballorah-community/ballorah-comunity/Platform/Dashboards/application/views/sidemenu_view.php
+INFO - 2018-02-26 20:51:45 --> File loaded: /Users/Sami/Dropbox (Personal)/Workspace/Ballorah-community/ballorah-comunity/Platform/Dashboards/application/views/topbar_view.php
+INFO - 2018-02-26 20:51:45 --> File loaded: /Users/Sami/Dropbox (Personal)/Workspace/Ballorah-community/ballorah-comunity/Platform/Dashboards/application/views/home_view.php
+INFO - 2018-02-26 20:51:45 --> File loaded: /Users/Sami/Dropbox (Personal)/Workspace/Ballorah-community/ballorah-comunity/Platform/Dashboards/application/views/footer_view.php
+INFO - 2018-02-26 20:51:45 --> Final output sent to browser
+DEBUG - 2018-02-26 20:51:45 --> Total execution time: 0.0703
