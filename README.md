@@ -16,15 +16,15 @@ Main users are Parents and Schools (Includes Drivers, Bus assistants and Bus fac
 
 ### PARENTS
 
-1- enrollment for kids’ location
-2- Real-time tracking for bus and kids on board
-3- Notification for parents on pick up, at drop off and during emergencies
-4- Messaging system between parents and schools admin.
-5- parents notify schools to cancel specific day full trip or pick up/ drop of for specific day.
+1. enrollment for kids’ location
+2. Real-time tracking for bus and kids on board
+3. Notification for parents on pick up, at drop off and during emergencies
+4. Messaging system between parents and schools admin.
+5. parents notify schools to cancel specific day full trip or pick up/ drop of for specific day.
 
 ### SCHOOLS
 
-1- Ability to collect all locations and calculate the shortest route possible to all locations and set bus routes ready for admin to assign assistant and driver.
-2- Real-time tracking to all buses
-3- measure drivers’ compliance to the preset road KPIs that bus drivers to follow.
-4- Facility to notify parents of holidays and events throughout the year or any changes in the bus, crew and timings.
+1. Ability to collect all locations and calculate the shortest route possible to all locations and set bus routes ready for admin to assign assistant and driver.
+2. Real-time tracking to all buses
+3. measure drivers’ compliance to the preset road KPIs that bus drivers to follow.
+4. Facility to notify parents of holidays and events throughout the year or any changes in the bus, crew and timings.
